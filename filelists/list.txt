@@ -1,30 +1,30 @@
-wavs/1.wav|Trận chiến bắt đầu ba người nguyên chủ thượng chủ cùng với băng chủ đều bước vào vị trí.
-wavs/2.wav|Cùng lúc đó người bên phía nguyên tiên và thượng tiên mỗi khu cử ra một người tiến về phía chủ tử của bọn họ.
-wavs/3.wav|Ngươi còn ngây người ra đó làm gì mau lên. nhìn thấy điều này Chi Lan lập tức quay đầu hét về phía Phan Lâm.
-wavs/4.wav|Phan Lâm giật mình vội vàng đi về phía bang chủ, mà khi Phan Lâm bước tới xung quanh hắn đã tràn ra những trận kinh ngạc.
-wavs/5.wav|Tại sao lại là nam nhân, người này là ai đây, hắn là người của thiên tiên khu sao, thiên tiên khu có nam nhân từ khi nào vậy.
-wavs/6.wav|Người của hai khu kia xì xào bàn tán rất nhiều, ngay cả thượng chủ và nguyên chủ cũng nhớn mày trong mắt hiện lên một tia kinh ngạc.
-wavs/7.wav|Băng chủ công pháp của ngươi ở tiên thiên khu luôn truyền cho nữ nhân chứ không truyền cho nam nhân, người ngày có lẽ không phải đồ đệ của ngươi đúng chứ.
-wavs/8.wav|Lẽ nào là đạo nữ song tu của ngươi sao nguyên chủ nhẹ giọng mở miệng hỏi ngôn ngữ có chút bén nhọn.
-wavs/9.wav|Ánh mắt của bang chủ sững lại một chút nhưng cũng không có bộc phát ra mà là bình tĩnh nói người này vốn là nô bộc ở thiên tiên khu của ta, ta xem hắn như có thiên phú nên có tâm chỉ điểm.
-wavs/10.wav|Xem như là đệ tử, hôm nay ta đặc biệt đửa hắn đến đây để làm người luyện thuốc giúp ta tham gia đại quyết, cho nên ngươi định giao thiên tiên khu vào tay của nam nhân này sao, để cho hắn kế thừa y bác của ngươi sao.
-wavs/11.wav|Nguyên chủ hỏi ánh mắt đầy khinh thường, băng chủ những bài công pháp của người nam nhân này không luyện được, muốn kế thừa y bác của ngươi thì hắn ta phải tự cung mới được, chẳng lẽ thiên tiên khu sau này sẽ do một tên thái giám không hoàn chỉnh lãnh đạo sao.
-wavs/12.wav|Một người bên cạnh nguyên chủ trêu tức mà cười nói, nguyên tiên khu lập tức bật cười, ánh mắt băng chủ lóe lên vẻ lạnh lùng nhưng sắc mặt thì cũng không có biểu thị gì nhiều, nơi này khi nào có phần của ngươi nói truyện đây lui ra nguyên chủ quát khẽ.
-wavs/13.wav|Nam từ khẽ giật mình vội vàng ôm quyền, vâng thưa sư tôn, băng chủ đại nhân chớ nên trách móc, liệt đồ không hiểu cập bậc lễ nghĩa, chớ có so đo nguyên chủ nhẹ nói chúng ta bắt đầu đại quyết đi.
-wavs/14.wav|Băng chủ tuy rằng trong lòng tuy không vui nhưng không có vì truyện này mà phát tác, cô ta vốn định đồng ý nhưng phan lâm bên cạnh lại lên tiếng, đệ tử không biết cấp bậc lễ nghĩa là do sư phụ dạy dỗ không.
-wavs/15.wav|Người này làm nhục sư phụ của ta ở nơi công cộng, thì chính là làm nhục thiên tiên khu của ta, làm sao có thể vì không biết cấp bậc lễ nghĩa mà cứ như vậy bỏ qua được chứ, lẽ nào nhân phẩm của tiên thiên khu chúng ta lại rẻ rúm như vậy sao.
-wavs/16.wav|Ngay khi những này được nói ra hiện trường đột nhiên im lặng, mọi người đều chọn tròn mắt nhìn phan lâm, người đàn ông này muốn làm gì đây, phan lâm im đi lùi lại.
-wavs/17.wav|Băng chủ dưỡng như nhận ra điều gì đó ngày lập quát khẽ, sư phụ lời ta nói có gì không đúng sao, ta biết sở dĩ ngài không thức giận là vì đại tế của tiên tộc, ngài muốn tiên tộc hòa thuận.
-wavs/18.wav|Một lòng một dạ đoàn kết với nhau chung tìm vĩnh sinh, nhưng hiện tại không phải là chúng ta không chịu đoàn kết mà là có người muốn sốc lên phiền phức, ngài chịu đựng được nhưng ta chịu không nổi, người của thiên tiên khu chịu không nổi.
-wavs/19.wav|Các ngươi có bằng lòng xem băng chủ của chúng ta bị làm nhục trước công chúng mà vẫn thờ như vậy không, phan lâm phẫn nộ mà hét lớn lời nói rất to và rõ ràng người trong thiên tiên khu kinh ngạc nhìn nhau.
-wavs/20.wav|Người ở hai khu kia thì cũng hoàn toàn chết lặng, ra hòa này không coi quá to gan đi, hắn đổ thêm dầu vào lửa sao, xin hạ lệnh cho người này cúi đầu xin lỗi băng chủ của chúng ta.
-wavs/21.wav|Mà lúc này, một giọng nói nổi lên từ tiên thiên khu, tạ vương im đi chi lan đột nhiên quay đầu nhìn lại và hét lên, đại sư tỷ sư tôn là nhân vật như thế nào.
-wavs/22.wav|Vương Khang sao có thể xỉ nhục sư tôn ở nơi công cộng như vậy được chứ, Vương Khang phải xin lỗi sư tôn đi, nữ tử tên tạ phương nghiêm trang nói.
-wavs/23.wav|Ngươi là đồ ngốc sao văn lâm kia đang đổ thêm dầu vào lửa cố ý quấy rối, ngươi lại muốn sa vào thủ đoạn của hắn ta sao, chi lan trầm giọng mắng.
-wavs/24.wav|Ta biết, nhưng sư tôn đã bị sỉ nhục là thật, thiên tiên khu của chúng ta phải nhún nhường nguyên tiên khu của hắn ta sao, tạ phuong khịt mũi lạnh lùng.
-wavs/25.wav|Chi lan chết lặng, mà khi lời nói của Tạ phương kết thúc thì người của thiên tiên khu lại xôn xao, sư tỷ tạ phuong nói đúng chuyện này không thể để yên, chúng ta phải khiến cho vương khang kia quỳ xuống xin lỗi.
-wavs/26.wav|Nếu như ngươi không giải thích truyện này thì ta sẽ không đồng ý đâu, càng ngày càng có nhiều tiếng nói, đám đông dần dần trở lên tức giận, băng chủ ngơ ngác nhìn phan lâm.
-wavs/27.wav|Làm như thế đối với ngươi có chỗ gì tốt chứ, băng chủ hiểu lầm, ta là hoàn toàn suy nghĩ cho cô thôi, cô muốn trở thành tiên chủ thì làm sao có thể ở đây mất uy phong như vậy.
-wavs/28.wav|Phan lâm lắc đầu, băng chủ khẽ nhíu mày không có nói gì nữa, các ngươi đừng có kinh người quá đáng muốn ta quỳ xuống tạ tội sao, tuyệt đối không có khả năng.
-wavs/29.wav|Vương khang nổi giận khiển trách, sao có thể cam lòng đây, thiên tiên khu là một đám nữ nhân, người ở nguyên tiên khu chưa bao giờ để cho thiên tiên khu vào mắt.
-wavs/30.wav|Hôm nay sư tôn sẽ thẳng thắng và trở thành chủ của tiên tộc, hắn là đệ tử đích truyền thì địa vị đương nhiên cũng sẽ được tăng lên, làm sao mà để băng chủ vào mắt được đây.
+wavs/1.wav|trận chiến bắt đầu ba người nguyên chủ thượng chủ cùng với băng chủ đều bước vào vị trí.
+wavs/2.wav|cùng lúc đó người bên phía nguyên tiên và thượng tiên mỗi khu cử ra một người tiến về phía chủ tử của bọn họ.
+wavs/3.wav|ngươi còn ngây người ra đó làm gì mau lên. nhìn thấy điều này chi lan lập tức quay đầu hét về phía phan lâm.
+wavs/4.wav|phan lâm giật mình vội vàng đi về phía bang chủ, mà khi phan lâm bước tới xung quanh hắn đã tràn ra những trận kinh ngạc.
+wavs/5.wav|tại sao lại là nam nhân, người này là ai đây, hắn là người của thiên tiên khu sao, thiên tiên khu có nam nhân từ khi nào vậy.
+wavs/6.wav|người của hai khu kia xì xào bàn tán rất nhiều, ngay cả thượng chủ và nguyên chủ cũng nhớn mày trong mắt hiện lên một tia kinh ngạc.
+wavs/7.wav|băng chủ công pháp của ngươi ở tiên thiên khu luôn truyền cho nữ nhân chứ không truyền cho nam nhân, người ngày có lẽ không phải đồ đệ của ngươi đúng chứ.
+wavs/8.wav|lẽ nào là đạo nữ song tu của ngươi sao nguyên chủ nhẹ giọng mở miệng hỏi ngôn ngữ có chút bén nhọn.
+wavs/9.wav|ánh mắt của bang chủ sững lại một chút nhưng cũng không có bộc phát ra mà là bình tĩnh nói người này vốn là nô bộc ở thiên tiên khu của ta, ta xem hắn như có thiên phú nên có tâm chỉ điểm.
+wavs/10.wav|xem như là đệ tử, hôm nay ta đặc biệt đửa hắn đến đây để làm người luyện thuốc giúp ta tham gia đại quyết, cho nên ngươi định giao thiên tiên khu vào tay của nam nhân này sao, để cho hắn kế thừa y bác của ngươi sao.
+wavs/11.wav|nguyên chủ hỏi ánh mắt đầy khinh thường, băng chủ những bài công pháp của người nam nhân này không luyện được, muốn kế thừa y bác của ngươi thì hắn ta phải tự cung mới được, chẳng lẽ thiên tiên khu sau này sẽ do một tên thái giám không hoàn chỉnh lãnh đạo sao.
+wavs/12.wav|một người bên cạnh nguyên chủ trêu tức mà cười nói, nguyên tiên khu lập tức bật cười, ánh mắt băng chủ lóe lên vẻ lạnh lùng nhưng sắc mặt thì cũng không có biểu thị gì nhiều, nơi này khi nào có phần của ngươi nói truyện đây lui ra nguyên chủ quát khẽ.
+wavs/13.wav|nam từ khẽ giật mình vội vàng ôm quyền, vâng thưa sư tôn, băng chủ đại nhân chớ nên trách móc, liệt đồ không hiểu cập bậc lễ nghĩa, chớ có so đo nguyên chủ nhẹ nói chúng ta bắt đầu đại quyết đi.
+wavs/14.wav|băng chủ tuy rằng trong lòng tuy không vui nhưng không có vì truyện này mà phát tác, cô ta vốn định đồng ý nhưng phan lâm bên cạnh lại lên tiếng, đệ tử không biết cấp bậc lễ nghĩa là do sư phụ dạy dỗ không.
+wavs/15.wav|người này làm nhục sư phụ của ta ở nơi công cộng, thì chính là làm nhục thiên tiên khu của ta, làm sao có thể vì không biết cấp bậc lễ nghĩa mà cứ như vậy bỏ qua được chứ, lẽ nào nhân phẩm của tiên thiên khu chúng ta lại rẻ rúm như vậy sao.
+wavs/16.wav|ngay khi những này được nói ra hiện trường đột nhiên im lặng, mọi người đều chọn tròn mắt nhìn phan lâm, người đàn ông này muốn làm gì đây, phan lâm im đi lùi lại.
+wavs/17.wav|băng chủ dưỡng như nhận ra điều gì đó ngày lập quát khẽ, sư phụ lời ta nói có gì không đúng sao, ta biết sở dĩ ngài không thức giận là vì đại tế của tiên tộc, ngài muốn tiên tộc hòa thuận.
+wavs/18.wav|một lòng một dạ đoàn kết với nhau chung tìm vĩnh sinh, nhưng hiện tại không phải là chúng ta không chịu đoàn kết mà là có người muốn sốc lên phiền phức, ngài chịu đựng được nhưng ta chịu không nổi, người của thiên tiên khu chịu không nổi.
+wavs/19.wav|các ngươi có bằng lòng xem băng chủ của chúng ta bị làm nhục trước công chúng mà vẫn thờ như vậy không, phan lâm phẫn nộ mà hét lớn lời nói rất to và rõ ràng người trong thiên tiên khu kinh ngạc nhìn nhau.
+wavs/20.wav|người ở hai khu kia thì cũng hoàn toàn chết lặng, ra hòa này không coi quá to gan đi, hắn đổ thêm dầu vào lửa sao, xin hạ lệnh cho người này cúi đầu xin lỗi băng chủ của chúng ta.
+wavs/21.wav|mà lúc này, một giọng nói nổi lên từ tiên thiên khu, tạ vương im đi chi lan đột nhiên quay đầu nhìn lại và hét lên, đại sư tỷ sư tôn là nhân vật như thế nào.
+wavs/22.wav|vương khang sao có thể xỉ nhục sư tôn ở nơi công cộng như vậy được chứ, vương khang phải xin lỗi sư tôn đi, nữ tử tên tạ phương nghiêm trang nói.
+wavs/23.wav|ngươi là đồ ngốc sao văn lâm kia đang đổ thêm dầu vào lửa cố ý quấy rối, ngươi lại muốn sa vào thủ đoạn của hắn ta sao, chi lan trầm giọng mắng.
+wavs/24.wav|ta biết, nhưng sư tôn đã bị sỉ nhục là thật, thiên tiên khu của chúng ta phải nhún nhường nguyên tiên khu của hắn ta sao, tạ phuong khịt mũi lạnh lùng.
+wavs/25.wav|chi lan chết lặng, mà khi lời nói của tạ phương kết thúc thì người của thiên tiên khu lại xôn xao, sư tỷ tạ phuong nói đúng chuyện này không thể để yên, chúng ta phải khiến cho vương khang kia quỳ xuống xin lỗi.
+wavs/26.wav|nếu như ngươi không giải thích truyện này thì ta sẽ không đồng ý đâu, càng ngày càng có nhiều tiếng nói, đám đông dần dần trở lên tức giận, băng chủ ngơ ngác nhìn phan lâm.
+wavs/27.wav|làm như thế đối với ngươi có chỗ gì tốt chứ, băng chủ hiểu lầm, ta là hoàn toàn suy nghĩ cho cô thôi, cô muốn trở thành tiên chủ thì làm sao có thể ở đây mất uy phong như vậy.
+wavs/28.wav|phan lâm lắc đầu, băng chủ khẽ nhíu mày không có nói gì nữa, các ngươi đừng có kinh người quá đáng muốn ta quỳ xuống tạ tội sao, tuyệt đối không có khả năng.
+wavs/29.wav|vương khang nổi giận khiển trách, sao có thể cam lòng đây, thiên tiên khu là một đám nữ nhân, người ở nguyên tiên khu chưa bao giờ để cho thiên tiên khu vào mắt.
+wavs/30.wav|hôm nay sư tôn sẽ thẳng thắng và trở thành chủ của tiên tộc, hắn là đệ tử đích truyền thì địa vị đương nhiên cũng sẽ được tăng lên, làm sao mà để băng chủ vào mắt được đây.
